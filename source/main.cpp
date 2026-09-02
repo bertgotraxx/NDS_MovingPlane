@@ -31,7 +31,7 @@ int main(void) {
 	//vramSetBankA(VRAM_A_TEXTURE);
 	//vramSetBankB(VRAM_B_TEXTURE);
 
-	// OpenGL settings
+	// OpenGL rendering settings
 	glEnable(GL_TEXTURE_2D);
 	glEnable(GL_BLEND);
 
