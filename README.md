@@ -1,11 +1,17 @@
 # "Moving Plane" Demo for Nintendo DS
 
+## Description
+
 A pet project written on C language combined with libnds library in order to compile the code for ARM9 CPU used by Nintendo DS
 
 In this Project i've learnt next:
 * Working with raw graphics processing
 * Setting up the rendering, lighting and effects
 * Manual creation of 3D models using the analog of OpenGL for Nintendo DS
+
+## Compilation
+In order to compile the project you need to have installed **libnds**, after that write in console:
+`make`
 
 # VIDEO DEMONSTRATION
 
