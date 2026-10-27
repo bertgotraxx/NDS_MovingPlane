@@ -10,7 +10,7 @@ In this Project i've learnt next:
 * Manual creation of 3D models using the analog of OpenGL for Nintendo DS
 
 ## Compilation
-In order to compile the project you need to have installed **libnds**, after that write in console:
+In order to compile the project you need to have installed **BlocksDS**, after that write in console:
 ```
 make
 ```
