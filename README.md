@@ -11,7 +11,9 @@ In this Project i've learnt next:
 
 ## Compilation
 In order to compile the project you need to have installed **libnds**, after that write in console:
-`make`
+```
+make
+```
 
 # VIDEO DEMONSTRATION
 
